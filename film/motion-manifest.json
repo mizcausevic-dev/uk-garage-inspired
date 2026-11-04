@@ -1,0 +1,26 @@
+{
+  "title": "UK Garage-Inspired",
+  "study": "ug01",
+  "bpm": 132,
+  "source_audio": "preview/uk-garage-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "a6422446f67354fc9df9c355ec2d78e3f28878e73db0a9be84d7a5c1a9216a82",
+  "source_midi": "midi/ug01-side-door/ug01-side-door-combined.mid",
+  "source_midi_sha256": "5bd510aaa1ebff11c990ea4c54b47a16ffb354fe7ffe9a4b352ab59a47601a0f",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "99070226a7c9d4ce3d5f28178726a6c0096f1800448aa763c443269a632d14ad",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "f3cb084e21538c3bb77efec16fc6c8fbc451855a5527e3cec26957e477a25201",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "fe75dcc15563be9af56c409448f1ae9f4066af3242935ab495b848d264b95f3c",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
