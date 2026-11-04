@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/uk-garage-inspired-simple-synth-preview.mp3",
+  "preview_sha256": "a6422446f67354fc9df9c355ec2d78e3f28878e73db0a9be84d7a5c1a9216a82",
+  "source_midi_path": "midi/ug01-side-door/ug01-side-door-combined.mid",
+  "source_midi_sha256": "5bd510aaa1ebff11c990ea4c54b47a16ffb354fe7ffe9a4b352ab59a47601a0f",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "ug01",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.1203,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

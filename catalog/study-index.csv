@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ug01,Side Door,pack-local equal-tempered pitch collection,C#,132,4/4,480,32,61440,midi/ug01-side-door/ug01-side-door-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ug02,Late Step,pack-local equal-tempered pitch collection,E,132,4/4,480,32,61440,midi/ug02-late-step/ug02-late-step-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ug03,Silver Turn,pack-local equal-tempered pitch collection,G,132,4/4,480,32,61440,midi/ug03-silver-turn/ug03-silver-turn-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ug04,Back Inside,pack-local equal-tempered pitch collection,D,132,4/4,480,32,61440,midi/ug04-back-inside/ug04-back-inside-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
