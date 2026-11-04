@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3165,
+      "sha256": "7204dd2e6d6d51b168fe9c48d41ebbc90ce6b3164203e80ac997b2e68a89fd90"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -38,8 +48,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1549,
-      "sha256": "0f2be11906e962cff3623fe2a5a647d4e39dee4d0a6c7c705b5187d30af92ec5"
+      "bytes": 1771,
+      "sha256": "3caef8e6503d25e60b02321bb74ed1db904e70f81f6f6df84a5c9fd6bb1ee27b"
     },
     {
       "path": "catalog/release-spec.json",
@@ -73,8 +83,8 @@
     },
     {
       "path": "downloads/uk-garage-inspired-midi.zip",
-      "bytes": 24299,
-      "sha256": "2fdf245174fdd0663d16909fa3b21f5dcedf739cbd572037983465dcc2bbab2d"
+      "bytes": 25588,
+      "sha256": "7d9cbcc435b507c3448306e06dce0b7bd178f88bf06381fab66adea49ed57201"
     },
     {
       "path": "index.html",
@@ -223,18 +233,13 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1042,
-      "sha256": "340be5eefadff5f1b6ef72c75043214b020d37e71e467e78417a5d8dcf31560e"
+      "bytes": 1125,
+      "sha256": "128cd72b387c5f92388bde0ffb3a3e4a59da29750215e72262037ea8248feba0"
     },
     {
       "path": "preview/uk-garage-inspired-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "a6422446f67354fc9df9c355ec2d78e3f28878e73db0a9be84d7a5c1a9216a82"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3004,
-      "sha256": "e10e6100f47aedbdb53cbbe64a8a7cde7d3f8ee0144177f99c4a8ec0de48a564"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -248,13 +253,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 54866,
-      "sha256": "06196196b6f5a4f8deb83b945619c6d8847d2439cac8636d376195b28ebe792f"
+      "bytes": 55043,
+      "sha256": "bf66b15904a8ffe6d9106669edd6670cc41fa3640db30691cf431832fe1f8772"
     },
     {
       "path": "tools/validate_release.py",
