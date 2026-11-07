@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 789,
-      "sha256": "68c397e62677c2c802f257656c0af87c72e74b27428282f7fef7ea2b03a71795"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3165,
-      "sha256": "7204dd2e6d6d51b168fe9c48d41ebbc90ce6b3164203e80ac997b2e68a89fd90"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -88,8 +73,8 @@
     },
     {
       "path": "downloads/uk-garage-inspired-midi.zip",
-      "bytes": 25588,
-      "sha256": "7d9cbcc435b507c3448306e06dce0b7bd178f88bf06381fab66adea49ed57201"
+      "bytes": 26575,
+      "sha256": "eece93f484d55c352b359e30af0b20b72aa70e776d2ecde6accc38363f7c4c7e"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -123,8 +108,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9138,
-      "sha256": "b3f0aae0f78cf114ef7459360c79650e65a9a46bc53e3c1bba38dbbbbede938b"
+      "bytes": 9328,
+      "sha256": "a0933380d167eddc646399b542144842401660c291707f7493a4d61bc6baedeb"
     },
     {
       "path": "midi/ug01-side-door/chord_pulse.mid",
@@ -267,6 +252,16 @@
       "sha256": "c7f257041f27e2efefb4806901a0a50ab69370527d27f1e23534e4507ccfabb6"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 789,
+      "sha256": "68c397e62677c2c802f257656c0af87c72e74b27428282f7fef7ea2b03a71795"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1125,
       "sha256": "128cd72b387c5f92388bde0ffb3a3e4a59da29750215e72262037ea8248feba0"
@@ -275,6 +270,16 @@
       "path": "preview/uk-garage-inspired-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "a6422446f67354fc9df9c355ec2d78e3f28878e73db0a9be84d7a5c1a9216a82"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3280,
+      "sha256": "00c290248b9df05f423a4ec3592006e1beb72e229de0dd7674cf94a6b58120ea"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
